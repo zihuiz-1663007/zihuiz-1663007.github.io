@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+#title {
+    border:solid 2px white;
+    float: right;
+    border-radius: 25px;
+}
+
+#title h1{
+    color: white;
+}
+
+#title p{
+    color: white;
+}
